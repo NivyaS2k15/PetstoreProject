@@ -1,0 +1,76 @@
+
+ 
+.gradient-form {
+    background: rgb(190, 70, 70)0a0;
+   
+  }
+ 
+  .gradient-custom-2 {
+ 
+    min-height: 30px;
+ 
+    background-image: url('../../assests/register.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-color: rgb(79, 119, 119);
+  }
+ 
+  .text-white {
+    color: #fff;
+  }
+ 
+  .card {
+    border: none;
+    background-color:( #7fffd450, 222);
+   
+  }
+ 
+  .card img {
+    width: 185px;
+    background-color: red;
+ 
+  }
+ 
+  h4 {
+    font-size: 1.5rem;
+   
+  }
+ 
+ 
+  .form-label {
+    font-weight: bold;
+   
+  }
+ 
+ 
+  .btn.btn-primary {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #692727;
+  }
+  @media (max-width: 768px) {
+    .btn.btn-primary {
+      width: 100%;
+    }  
+}
+ 
+.btn.btn-primary {
+    background-color: blue;
+    color: rgb(212, 85, 85);
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  h4.text-black {
+    font-size: 2rem; /* Adjust the font size as needed */
+    font-weight: bold; /* You can apply a different font-family here if desired */
+  }
+
+ 
+  .form-control{
+    background-color: #a8a62c;
+  }
+
+
+  
+    
+  

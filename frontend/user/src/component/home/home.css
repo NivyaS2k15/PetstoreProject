@@ -1,0 +1,72 @@
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .product-card {
+    width: 23%; /* Adjust the width as needed for your layout */
+    margin-bottom: 20px;
+  }
+  .setup{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .product-card {
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+
+
+.hover_effect:hover {
+  transform: scale(1.06);
+  
+  
+  /* Enlarge the card on hover */
+  }
+
+
+
+  .footer-area{
+    padding: 40px 0px;
+    background-color: rgb(146, 34, 49);
+    color: #fff;
+}
+.footer-area a{
+    text-decoration: none;
+}
+.footer-area .footer-heading{
+    font-size: 24px;
+    color: #fff;
+}
+.footer-area .footer-underline{
+    height: 1px;
+    width: 70px;
+    background-color: #ddd;
+    margin: 10px 0px;
+}
+.copyright-area{
+    padding: 14px 0px;
+    background-color: #0e0d0d;
+}
+.copyright-area p{
+    margin-bottom: 0px;
+    color: #fff;
+}
+.copyright-area .social-media{
+    text-align: end;
+}
+.copyright-area .social-media a{
+    margin: 0px 10px;
+    color: #fff;
+    width: 20px;
+}
+
+.col-lg-3{
+    height: 5%;
+    width: 25%
+}
